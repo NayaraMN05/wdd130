@@ -13,12 +13,13 @@
 nav {
     background-color: darkblue;
     padding:10px;
+    display: flex;
 }
 
 nav a {
     color: white;
-    display: block;
     padding: 20px;
+    gap: 20px; /* space between links */
 }
 
 h1 {
