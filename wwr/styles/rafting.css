@@ -63,7 +63,7 @@ h1 {
     color: #fff; /* making as much text contrast as possible */
 }
 
-article {
+.hero article {
     position: absolute;
     width: 100%;
     top: 50%; /* ajusta vertical */
