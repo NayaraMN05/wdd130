@@ -85,3 +85,7 @@ article {
     height: 50px;
     gap: 10px;
 }
+
+body {
+    background-color: red !important;
+}
